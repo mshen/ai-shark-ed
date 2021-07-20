@@ -1,0 +1,9 @@
+{"Amber":1200,
+"Ammonite":1100,
+"Archaeopteryx":1300,
+"Coprolite":1100,
+"Dinosaur egg":1400,
+"Dinosaur track":1000,
+"Fern fossil":1000,
+"Shark tooth":1000,
+"Trilobite":1300}
