@@ -1,7 +1,7 @@
 "How goes it, [player]! If I may be so bold, you're looking as cool as a fair number of cucumbers."
 "Hey, [player]. I feel like we need more dancing happening right now. Shoom! (does flourish emotion) OK, that's a little better."
 "Hi. Seems quiet today, huh? Like, too quiet. [catchphrase]."
-"You again, [player]? Well, that makes this a good day! A great day even! [Catchphrase]!"
+"You again, [player]? Well, that makes this a good day! A great day even! [catchphrase]!"
 "Hi. Nothing like a chat with me to brighten your day, yeah?"
 "Hi. I knew you couldn't stay away! I can't blame you! [catchphrase]!"
 "Whoa. You again? We're meeting a lot today, [catchphrase]."
